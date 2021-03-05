@@ -1,0 +1,12 @@
+{
+  "name": "Avantica",
+  "displayName": "Avantica",
+  "expo": {
+    "name": "Avantica",
+    "slug": "Avantica",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
